@@ -3,6 +3,7 @@
 ## 5 kyu
   * [Where my anagrams at?](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/anagrams.py)
   * [Number of trailing zeros of N!](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/number_of_trailing_zeros_of_n.py)
+  * [Product of consecutive Fib numbers](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/product_of_consecutive_fib_numbers.py)
 ## 6 kyu
   * [Count characters in your string](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/count_characters_in_your_string.py)
   * [Detect Pangram](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/detect_pangram.py)
