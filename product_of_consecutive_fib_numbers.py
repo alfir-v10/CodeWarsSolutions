@@ -11,7 +11,6 @@ depending on the language if F(n) * F(n+1) = prod.
 If you don't find two consecutive F(m) verifying F(m) * F(m+1) = prodyou will return
 [F(m), F(m+1), false] or {F(n), F(n+1), 0} or (F(n), F(n+1), False)
 F(m) being the smallest one such as F(m) * F(m+1) > prod.
-
 """
 
 
