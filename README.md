@@ -1,5 +1,7 @@
 # CodeWarsSolutions
 
+## 1 kyu
+  * [Simple Interactive Interpreter](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/simple_interactive_interpreter.py)[Task](https://www.codewars.com/kata/52ffcfa4aff455b3c2000750/python)
 ## 5 kyu
   * [Where my anagrams at?](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/anagrams.py)
   * [Number of trailing zeros of N!](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/number_of_trailing_zeros_of_n.py)
