@@ -14,11 +14,14 @@
   * [Who likes it?](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/who_likes_it.py)
   * [Multiplication Tables](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/multiplication_tables.py)
   * [Prefill an Array](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/prefill_an_array.py)
+  * [Delete occurrences of an element if it occurs more than n times](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/delete_occurrences_of_an_element_if_it_occurs_more_than_n_times.md)
 ## 7 kyu
   * [Disemvowel Trolls](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/disemvowel_trolls.py)
   * [Find the next perfect square!](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/find_the_next_perfect_square.py)
   * [Jaden Casing Strings](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/jaden_casing_strings.py)
   * [Small enough? - Beginner](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/small_enough_beginner.py)
+  * [Complementary DNA](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/complementary_dna.md)
+  * [Is this a triangle?](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/is_this_a_triangle.md)
 ## 8 kyu
   * [Greek Sort](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/greek_sort.py)
   * [Object Oriented Piracy](https://github.com/alfir-v10/CodeWarsSolutions/blob/main/object_oriented_piracy.py)
